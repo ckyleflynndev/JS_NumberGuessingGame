@@ -1,0 +1,46 @@
+body{
+  text-align: center;
+  background-color: lightblue;
+  border-style: solid;
+  border-color: black;
+  font-weight: bold;
+}
+
+.container{
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+}
+.title{
+  color: black;
+  border-style: solid;
+  border-color: black;
+  
+  background-color: lightblue;
+  margin-top: 10px;
+	margin-bottom: 50px;
+  margin: 2rem;
+  border-width: bolder;
+  font-size: 3rem;
+}
+button{
+  background-color: lightblue;
+  color: black;
+  border: 1rem;
+  border-radius: 50px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1rem;
+  transition-duration: 0.4s;
+  margin: 2rem;
+}
+
+button:hover {
+  background-color:lightblue; 
+  color: white;
+  cursor: pointer;
+}
+
+.notification{
+  margin-bottom: 1rem;
+}
